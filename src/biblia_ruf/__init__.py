@@ -18,6 +18,8 @@ from .models import (
     ParsedPassage,
     SearchResult,
 )
+from .parser import parse_passage
+from .passage import get_bible_passage
 from .validate import ValidationError, validate_all_books, validate_book
 
 __version__ = "0.1.0"
@@ -35,7 +37,9 @@ __all__ = [
     "get_bible_books",
     "get_bible_books_new_testament",
     "get_bible_books_old_testament",
+    "get_bible_passage",
     "get_book_details",
+    "parse_passage",
     "validate_all_books",
     "validate_book",
 ]
