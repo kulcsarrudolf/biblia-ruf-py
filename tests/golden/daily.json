@@ -1,0 +1,114 @@
+[
+  {
+    "date": [
+      2024,
+      1,
+      1
+    ],
+    "result": {
+      "reference": "1Móz 1:1",
+      "book": "1Móz",
+      "chapter": 1,
+      "verse": "1",
+      "text": "Kezdetben teremtette Isten az eget és a földet."
+    }
+  },
+  {
+    "date": [
+      2024,
+      2,
+      29
+    ],
+    "result": {
+      "reference": "Zsolt 121:1",
+      "book": "Zsolt",
+      "chapter": 121,
+      "verse": "1",
+      "text": "Zarándokének. Tekintetem a hegyekre emelem: Honnan jön segítségem? "
+    }
+  },
+  {
+    "date": [
+      2024,
+      7,
+      1
+    ],
+    "result": {
+      "reference": "1Pt 5:7",
+      "book": "1Pt",
+      "chapter": 5,
+      "verse": "7",
+      "text": "Minden gondotokat őreá vessétek, mert neki gondja van rátok."
+    }
+  },
+  {
+    "date": [
+      2024,
+      12,
+      31
+    ],
+    "result": {
+      "reference": "Mt 5:16",
+      "book": "Mt",
+      "chapter": 5,
+      "verse": "16",
+      "text": "Úgy ragyogjon a ti világosságotok az emberek előtt, hogy lássák jó cselekedeteiteket, és dicsőítsék a ti mennyei Atyátokat."
+    }
+  },
+  {
+    "date": [
+      2025,
+      6,
+      15
+    ],
+    "result": {
+      "reference": "Zsid 12:2",
+      "book": "Zsid",
+      "chapter": 12,
+      "verse": "2",
+      "text": "Nézzünk fel Jézusra, a hit szerzőjére és beteljesítőjére, aki az előtte levő öröm helyett – a gyalázattal nem törődve – vállalta a keresztet, és Isten trónjának a jobbjára ült."
+    }
+  },
+  {
+    "date": [
+      2026,
+      1,
+      1
+    ],
+    "result": {
+      "reference": "Jn 14:27",
+      "book": "Jn",
+      "chapter": 14,
+      "verse": "27",
+      "text": "Békességet hagyok nektek, az én békességemet adom nektek, de nem úgy adom nektek, ahogyan a világ adja. Ne nyugtalankodjék a ti szívetek, ne is csüggedjen!"
+    }
+  },
+  {
+    "date": [
+      2000,
+      10,
+      5
+    ],
+    "result": {
+      "reference": "Zsolt 119:105",
+      "book": "Zsolt",
+      "chapter": 119,
+      "verse": "105",
+      "text": "Lábam előtt mécses a te igéd, ösvényem világossága. "
+    }
+  },
+  {
+    "date": [
+      1999,
+      3,
+      20
+    ],
+    "result": {
+      "reference": "Péld 3:6",
+      "book": "Péld",
+      "chapter": 3,
+      "verse": "6",
+      "text": "Minden utadon gondolj rá, és ő egyengetni fogja ösvényeidet. "
+    }
+  }
+]

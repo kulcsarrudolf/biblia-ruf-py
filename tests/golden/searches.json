@@ -1,0 +1,301 @@
+[
+  {
+    "query": "szeretet",
+    "options": {
+      "limit": 10
+    },
+    "results": [
+      {
+        "book": "1Móz",
+        "book_name": "Mózes első könyve",
+        "chapter": 19,
+        "verse": "19",
+        "text": "Ha már kegyelmes voltál szolgádhoz, és olyan nagy szeretettel bánsz velem, hogy meg akarod tartani az életemet, akkor ne kelljen a hegyre menekülnöm, mert utolér a veszedelem, és meghalok.",
+        "reference": "1Móz 19:19"
+      },
+      {
+        "book": "1Móz",
+        "book_name": "Mózes első könyve",
+        "chapter": 20,
+        "verse": "13",
+        "text": "Amikor vándorútra indított engem Isten apám házából, ezt kértem tőle: Azzal mutasd meg szeretetedet irántam, hogy bárhová megyünk, mindenütt azt mondod rólam, hogy a bátyád vagyok!",
+        "reference": "1Móz 20:13"
+      },
+      {
+        "book": "1Móz",
+        "book_name": "Mózes első könyve",
+        "chapter": 24,
+        "verse": "27",
+        "text": "és ezt mondta: Áldott az  Úr, Ábrahámnak, az én uramnak Istene, aki nem vonta meg hűségét és szeretetét uramtól. Az  Úr vezérelt engem ezen az úton uram testvérének házához.",
+        "reference": "1Móz 24:27"
+      },
+      {
+        "book": "1Móz",
+        "book_name": "Mózes első könyve",
+        "chapter": 32,
+        "verse": "11",
+        "text": "Méltatlan vagyok mindarra a hűségre és szeretetre, amiben szolgádat részesítetted. Hiszen csak egy vándorbottal keltem át itt a Jordánon, most pedig két táborom is van.",
+        "reference": "1Móz 32:11"
+      },
+      {
+        "book": "1Móz",
+        "book_name": "Mózes első könyve",
+        "chapter": 47,
+        "verse": "29",
+        "text": "Amikor közeledett Izráel halálának az ideje, magához hívatta fiát, Józsefet, és ezt mondta neki: Ha elnyertem jóindulatodat, tedd kezedet a csípőm alá, és esküdj meg, hogy szeretettel és hűséggel bánsz velem, és nem Egyiptomban fogsz eltemetni!",
+        "reference": "1Móz 47:29"
+      },
+      {
+        "book": "2Móz",
+        "book_name": "Mózes második könyve",
+        "chapter": 34,
+        "verse": "6",
+        "text": "Elvonult előtte az  Úr, és így mondta azt ki: Az  Úr, az  Úr irgalmas és kegyelmes Isten! Türelme hosszú, szeretete és hűsége nagy!",
+        "reference": "2Móz 34:6"
+      },
+      {
+        "book": "4Móz",
+        "book_name": "Mózes negyedik könyve",
+        "chapter": 14,
+        "verse": "18",
+        "text": "Az  Úr türelme hosszú, szeretete nagy, megbocsátja a bűnt és a hitszegést; bár nem hagyja egészen büntetés nélkül, hanem megbünteti az atyák bűnéért a fiakat is, három, sőt négy nemzedéken át.",
+        "reference": "4Móz 14:18"
+      },
+      {
+        "book": "4Móz",
+        "book_name": "Mózes negyedik könyve",
+        "chapter": 14,
+        "verse": "19",
+        "text": "Bocsásd meg hát ennek a népnek a bűnét nagy szereteteddel, ahogyan megbocsátottál ennek a népnek Egyiptomtól fogva mindeddig!",
+        "reference": "4Móz 14:19"
+      },
+      {
+        "book": "5Móz",
+        "book_name": "Mózes ötödik könyve",
+        "chapter": 7,
+        "verse": "7",
+        "text": "Nem azért szeretett meg, és nem azért választott ki benneteket az  Úr, mintha valamennyi népnél nagyobbak volnátok – hiszen a legkisebbek vagytok valamennyi nép között –,",
+        "reference": "5Móz 7:7"
+      },
+      {
+        "book": "5Móz",
+        "book_name": "Mózes ötödik könyve",
+        "chapter": 15,
+        "verse": "16",
+        "text": "De ha azt mondja neked: Nem megyek el tőled! – mert megszeretett téged és házad népét, mert jó dolga volt nálad –,",
+        "reference": "5Móz 15:16"
+      }
+    ]
+  },
+  {
+    "query": "Isten",
+    "options": {
+      "testament": "old",
+      "limit": 5
+    },
+    "results": [
+      {
+        "book": "1Móz",
+        "book_name": "Mózes első könyve",
+        "chapter": 1,
+        "verse": "1",
+        "text": "Kezdetben teremtette Isten az eget és a földet.",
+        "reference": "1Móz 1:1"
+      },
+      {
+        "book": "1Móz",
+        "book_name": "Mózes első könyve",
+        "chapter": 1,
+        "verse": "2",
+        "text": "A föld még kietlen és puszta volt, a mélység fölött sötétség volt, de Isten Lelke lebegett a vizek fölött.",
+        "reference": "1Móz 1:2"
+      },
+      {
+        "book": "1Móz",
+        "book_name": "Mózes első könyve",
+        "chapter": 1,
+        "verse": "3",
+        "text": "Akkor ezt mondta Isten: Legyen világosság! És lett világosság.",
+        "reference": "1Móz 1:3"
+      },
+      {
+        "book": "1Móz",
+        "book_name": "Mózes első könyve",
+        "chapter": 1,
+        "verse": "4",
+        "text": "Látta Isten, hogy a világosság jó, elválasztotta tehát Isten a világosságot a sötétségtől.",
+        "reference": "1Móz 1:4"
+      },
+      {
+        "book": "1Móz",
+        "book_name": "Mózes első könyve",
+        "chapter": 1,
+        "verse": "5",
+        "text": "És elnevezte Isten a világosságot nappalnak, a sötétséget pedig éjszakának nevezte el. Így lett este, és lett reggel: első nap.",
+        "reference": "1Móz 1:5"
+      }
+    ]
+  },
+  {
+    "query": "Isten",
+    "options": {
+      "testament": "new",
+      "limit": 5
+    },
+    "results": [
+      {
+        "book": "Mt",
+        "book_name": "Máté evangéliuma",
+        "chapter": 1,
+        "verse": "23",
+        "text": "„Íme, a szűz fogan méhében, és fiút szül, és Immánuélnak nevezik majd” – ami azt jelenti: Velünk az Isten.",
+        "reference": "Mt 1:23"
+      },
+      {
+        "book": "Mt",
+        "book_name": "Máté evangéliuma",
+        "chapter": 3,
+        "verse": "9",
+        "text": "és ne gondoljátok, hogy ezt mondhatjátok magatokban: A mi atyánk Ábrahám! Mert mondom nektek, hogy Isten ezekből a kövekből is tud fiakat támasztani Ábrahámnak.",
+        "reference": "Mt 3:9"
+      },
+      {
+        "book": "Mt",
+        "book_name": "Máté evangéliuma",
+        "chapter": 3,
+        "verse": "16",
+        "text": "Amikor pedig Jézus megkeresztelkedett, azonnal kijött a vízből, és íme, megnyílt az ég, és látta, hogy Isten Lelke mint egy galamb aláereszkedik, és őreá száll.",
+        "reference": "Mt 3:16"
+      },
+      {
+        "book": "Mt",
+        "book_name": "Máté evangéliuma",
+        "chapter": 4,
+        "verse": "3",
+        "text": "Ekkor odament hozzá a kísértő, és ezt mondta: Ha Isten Fia vagy, mondd, hogy ezek a kövek változzanak kenyérré!",
+        "reference": "Mt 4:3"
+      },
+      {
+        "book": "Mt",
+        "book_name": "Máté evangéliuma",
+        "chapter": 4,
+        "verse": "4",
+        "text": "Ő így válaszolt: Meg van írva: „Nemcsak kenyérrel él az ember, hanem minden igével, amely Isten szájából származik.”",
+        "reference": "Mt 4:4"
+      }
+    ]
+  },
+  {
+    "query": "kegyelem",
+    "options": {
+      "book": "Róm",
+      "limit": 20
+    },
+    "results": [
+      {
+        "book": "Róm",
+        "book_name": "Pál levele a rómaiakhoz",
+        "chapter": 1,
+        "verse": "7",
+        "text": "Mindazoknak, akik Rómában vagytok, Isten szeretteinek, elhívott szentjeinek: Kegyelem nektek és békesség Istentől, a mi Atyánktól és az Úr Jézus Krisztustól.",
+        "reference": "Róm 1:7"
+      },
+      {
+        "book": "Róm",
+        "book_name": "Pál levele a rómaiakhoz",
+        "chapter": 4,
+        "verse": "16",
+        "text": "Azért hitből, hogy kegyelemből legyen, és így bizonyos legyen az ígéret Ábrahám minden utóda számára: nemcsak a törvényből valóknak, hanem az Ábrahám hitét követőknek is. ",
+        "reference": "Róm 4:16"
+      },
+      {
+        "book": "Róm",
+        "book_name": "Pál levele a rómaiakhoz",
+        "chapter": 5,
+        "verse": "2",
+        "text": "Őáltala járulhatunk hitben ahhoz a kegyelemhez, amelyben vagyunk, és dicsekszünk azzal a reménységgel is, hogy részesülünk Isten dicsőségében.",
+        "reference": "Róm 5:2"
+      },
+      {
+        "book": "Róm",
+        "book_name": "Pál levele a rómaiakhoz",
+        "chapter": 5,
+        "verse": "17",
+        "text": "Ha pedig az egynek elbukása miatt uralkodhatott a halál egyetlen ember által, akkor még inkább igaz, hogy azok, akik bőségesen kapják a kegyelem és az igazság ajándékát, uralkodni fognak az életben az egy Jézus Krisztus által.",
+        "reference": "Róm 5:17"
+      },
+      {
+        "book": "Róm",
+        "book_name": "Pál levele a rómaiakhoz",
+        "chapter": 5,
+        "verse": "20",
+        "text": "Közben pedig eljött a törvény, hogy megnövekedjék a bűn. De ahol megnövekedett a bűn, ott még bőségesebben kiáradt a kegyelem;",
+        "reference": "Róm 5:20"
+      },
+      {
+        "book": "Róm",
+        "book_name": "Pál levele a rómaiakhoz",
+        "chapter": 5,
+        "verse": "21",
+        "text": "hogy amiképpen uralkodott a bűn a halálban, úgy uralkodjék a kegyelem is az igazság által az örök életre Jézus Krisztus, a mi Urunk által.",
+        "reference": "Róm 5:21"
+      },
+      {
+        "book": "Róm",
+        "book_name": "Pál levele a rómaiakhoz",
+        "chapter": 6,
+        "verse": "1",
+        "text": "Mit mondjunk tehát? Maradjunk a bűnben, hogy megnövekedjék a kegyelem?",
+        "reference": "Róm 6:1"
+      },
+      {
+        "book": "Róm",
+        "book_name": "Pál levele a rómaiakhoz",
+        "chapter": 6,
+        "verse": "14",
+        "text": "Hiszen a bűn nem fog uralkodni rajtatok, mert nem a törvény, hanem a kegyelem uralma alatt éltek.",
+        "reference": "Róm 6:14"
+      },
+      {
+        "book": "Róm",
+        "book_name": "Pál levele a rómaiakhoz",
+        "chapter": 6,
+        "verse": "15",
+        "text": "Mit tegyünk tehát? Vétkezzünk, mert nem a törvény, hanem a kegyelem uralma alatt élünk? Szó sincs róla!",
+        "reference": "Róm 6:15"
+      },
+      {
+        "book": "Róm",
+        "book_name": "Pál levele a rómaiakhoz",
+        "chapter": 11,
+        "verse": "6",
+        "text": "ha pedig kegyelemből van, akkor nem cselekedetekből, különben a kegyelem nem volna kegyelem.",
+        "reference": "Róm 11:6"
+      },
+      {
+        "book": "Róm",
+        "book_name": "Pál levele a rómaiakhoz",
+        "chapter": 12,
+        "verse": "3",
+        "text": "A nekem adott kegyelem által mondom tehát közöttetek mindenkinek: ne gondoljátok magatokat többnek, mint amennyinek gondolnotok kell, hanem arra igyekezzék mindenki, hogy józanul gondolkozzék az Istentől kapott hit mértéke szerint.",
+        "reference": "Róm 12:3"
+      },
+      {
+        "book": "Róm",
+        "book_name": "Pál levele a rómaiakhoz",
+        "chapter": 12,
+        "verse": "6",
+        "text": "Mert a nekünk adott kegyelem szerint különböző ajándékaink vannak, eszerint szolgálunk is: aki a prófétálás ajándékát kapta, az a hit szabálya szerint prófétáljon;",
+        "reference": "Róm 12:6"
+      }
+    ]
+  },
+  {
+    "query": "SZERETET",
+    "options": {
+      "caseSensitive": true,
+      "limit": 5
+    },
+    "results": []
+  }
+]

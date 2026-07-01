@@ -9,6 +9,7 @@ from .books import (
     get_bible_books_new_testament,
     get_bible_books_old_testament,
 )
+from .daily_verse import get_daily_verse
 from .models import (
     BibleBook,
     BibleVerse,
@@ -20,6 +21,7 @@ from .models import (
 )
 from .parser import parse_passage
 from .passage import get_bible_passage
+from .search import search_bible
 from .validate import ValidationError, validate_all_books, validate_book
 
 __version__ = "0.1.0"
@@ -39,7 +41,9 @@ __all__ = [
     "get_bible_books_old_testament",
     "get_bible_passage",
     "get_book_details",
+    "get_daily_verse",
     "parse_passage",
+    "search_bible",
     "validate_all_books",
     "validate_book",
 ]
